@@ -19,7 +19,7 @@ const Navbar = () => {
                     <div className="icon mx-2">
                         <BuildingStorefrontIcon className='w-6 h-6' />
                     </div>
-                    <a className="text-xl font-bold">Shop Inventory Management</a>
+                    <a className="text-xl font-bold">Metal Inventory Management</a>
                 </div>
                 <div className='flex items-center px-2'>
                     <SunIcon onClick={toggleDarkMode} className='dark:hidden h-6 w-6' />
